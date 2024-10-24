@@ -22,28 +22,28 @@ Steps :
 - Clean the raw data and make a new clean data frame that all members of the group will use for the further analysis.
 - We analyze the data title : Melbourne Housing Snapshot.
 - Resources : https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot
-What we analyze :
-- Top 5 agents by revenue
-- Bottom 5 agents by revenue
-- Top 5 agents by house sold
-- Bottom 5 agents by house sold
-- Distribution of house sold for each year for each type of property using pie charts
-- Using boxplot : we analyze each region distance from CBD and how it affected the price
-- Using mapping : to analyze sales per region, sales per type, sales per types of rooms
-- Using bar charts : to analyze the seasonality / trends of sales per type of property, per rooms, to know what is the best time to buy 
-- Using Bar : to analyze total seasonality / price of sales for each type and for number of rooms
-- Using group bar :  to compare the trends of sales and price per type number of rooms
-- Using boxplot and scatter plot : to analyze the correlation of average price and number of bedrooms
-- Find the correlation between latitude/longitude and property prices to identify high-demand areas
-- From the calculation on latitude/longitude and property price, find the linear regression for each region
-- Using bar chart : to show the average price by month and average price by quarter
-- Calculate the property count trends over time in booming regions
-- Using bar chart : find the average property price against month and also per quarter to see what season to buy cheaper/more expensive property
-- Using line charts : to calculate property count trends over time in booming region
-- Using scatter plot and linear regression find the correlation between distance of houses for specific number of bedroom
-- Using scatter plot and linear regression find the correlation between number of car garage for the price
-- Using HeatMap to show the property distribution region and type of the property
-- Make the summary analysis
+- What we analyze :
+  - Top 5 agents by revenue
+  - Bottom 5 agents by revenue
+  - Top 5 agents by house sold
+  - Bottom 5 agents by house sold
+  - Distribution of house sold for each year for each type of property using pie charts
+  - Using boxplot : we analyze each region distance from CBD and how it affected the price
+  - Using mapping : to analyze sales per region, sales per type, sales per types of rooms
+  - Using bar charts : to analyze the seasonality / trends of sales per type of property, per rooms, to know what is the best time to buy 
+  - Using Bar : to analyze total seasonality / price of sales for each type and for number of rooms
+  - Using group bar :  to compare the trends of sales and price per type number of rooms
+  - Using boxplot and scatter plot : to analyze the correlation of average price and number of bedrooms
+  - Find the correlation between latitude/longitude and property prices to identify high-demand areas
+  - From the calculation on latitude/longitude and property price, find the linear regression for each region
+  - Using bar chart : to show the average price by month and average price by quarter
+  - Calculate the property count trends over time in booming regions
+  - Using bar chart : find the average property price against month and also per quarter to see what season to buy cheaper/more expensive property
+  - Using line charts : to calculate property count trends over time in booming region
+  - Using scatter plot and linear regression find the correlation between distance of houses for specific number of bedroom
+  - Using scatter plot and linear regression find the correlation between number of car garage for the price
+  - Using HeatMap to show the property distribution region and type of the property
+  - Make the summary analysis
 
 
 
