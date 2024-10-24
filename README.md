@@ -1,20 +1,20 @@
 # Project-1 (Ingrid, Gita, Mohammad, Wisdom)
 Timeline :
-10/16/2024 
-Decided dataset that the group use for the project
-Distribute the analysis tasks among the group members, each person is responsible for a specific part of the analysis
-10/17/2024
-The group members worked on each of their responsible part of analysis
-10/18/2024
-We tried to solve the github push issues
-10/20/2024
-Each group member presents their analysis, and we provide feedback and help each other improve the analysis.
-10/21/2024
-We worked together during the classroom meeting on Monday to finalize all the code and resolve some GitHub issues.
-10/22/2024
-All group members have finalized their analyses. We discussed the presentation slides.
-10/23/2024
-We have finalized the presentation slides and are ready for today’s 'Project-One' presentation
+- 10/16/2024 
+  - Decided dataset that the group use for the project
+  - Distribute the analysis tasks among the group members, each person is responsible for a specific part of the analysis
+- 10/17/2024
+  - The group members worked on each of their responsible part of analysis
+- 10/18/2024
+  - We tried to solve the github push issues
+- 10/20/2024
+  - Each group member presents their analysis, and we provide feedback and help each other improve the analysis.
+- 10/21/2024
+  - We worked together during the classroom meeting on Monday to finalize all the code and resolve some GitHub issues.
+- 10/22/2024
+  - All group members have finalized their analyses. We discussed the presentation slides.
+- 10/23/2024
+  - We have finalized the presentation slides and are ready for today’s 'Project-One' presentation
 
 
 
