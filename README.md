@@ -1,4 +1,9 @@
 # Project-1 (Ingrid, Gita, Mohammad, Wisdom)
+
+Direction :
+
+- “All the files for this group project are located in the Resources folder.”
+
 Timeline :
 - 10/16/2024 
   - Decided dataset that the group use for the project
